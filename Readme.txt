@@ -1,6 +1,5 @@
 Author : Pranav Ramarao
 Project : Bug detection in Software Engineering
-Experimenting with Hasan Entropy and exploring possibility of positive results with Horizontal Entropy
 
 Broadly, it can be classified into two parts :
 Part 1 : 
